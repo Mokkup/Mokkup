@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mokkup
+- 👀 I’m interested in automation, maths and political studies.
+- 🌱 I’m currently learning ~~how to abolish the state~~ how to deal with exams.
+- 📫 How to reach me: mokkupdev@proton.me
